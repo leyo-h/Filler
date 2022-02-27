@@ -16,8 +16,8 @@ var searchDepth = 8;
 var ALPHA = -1000000
 var BETA = -ALPHA
 
-var width = 16;
-var height = 14;
+var width = 8;
+var height = 7;
 
 var colours =7;
 var coloursHex = ["#6184D8","#7F055F","#C44900","#9CEC5B","#F0F465","#FF0035","#000000"]
